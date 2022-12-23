@@ -1,0 +1,19 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body{
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+    background-color: rgb(238, 237, 237);
+}
+
+@media (min-width: 10000.1px){
+    body{
+        margin-left: 168px;
+    }
+}
